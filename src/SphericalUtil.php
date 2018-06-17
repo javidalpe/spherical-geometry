@@ -232,8 +232,8 @@ class SphericalUtil
 	}
 
 	/**
-	 * Returns the signed area of a closed $path on Earth. The sign of the area may be used $to
-	 * determine the orientation of the $path.
+	 * Returns the signed area of a closed path on Earth. The sign of the area may be used to
+	 * determine the orientation of the path.
 	 * "inside" is the surface that does not contain the South Pole.
 	 *
 	 * @param $path LatLng[] A closed $path.
